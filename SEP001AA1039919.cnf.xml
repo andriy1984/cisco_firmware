@@ -75,7 +75,7 @@
 	<alwaysUsePrimeLine>false</alwaysUsePrimeLine>
 	<alwaysUsePrimeLineVoiceMail>false</alwaysUsePrimeLineVoiceMail>
 	<kpml>3</kpml>
-	<phoneLabel>$phone$</phoneLabel>
+	<phoneLabel>7002</phoneLabel>
 	<stutterMsgWaiting>1</stutterMsgWaiting>
 	<callStats>false</callStats>
 	<silentPeriodBetweenCallWaitingBursts>10</silentPeriodBetweenCallWaitingBursts>
@@ -85,7 +85,7 @@
 	<sipLines>
 		<line button="1">
 		<featureID>9</featureID>
-		<featureLabel>Asterisk</featureLabel>
+		<featureLabel>peugeot</featureLabel>
 		<proxy>192.168.10.179</proxy>
 		<port>5060</port>
 		<name>7002</name>
